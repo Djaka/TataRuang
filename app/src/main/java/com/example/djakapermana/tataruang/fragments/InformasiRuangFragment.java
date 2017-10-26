@@ -47,6 +47,7 @@ public class InformasiRuangFragment extends Fragment {
     public InformasiRuangFragment() {
         // Required empty public constructor
     }
+    private static String TAG = "MapInformasiRuangFragment";
 
     public static final String BASE_URL = "http://tataruangpupr.net84.net/";
     private ListView mListView;

@@ -26,6 +26,7 @@ import java.util.ArrayList;
 public class PerbupFragment extends Fragment {
 
 
+    private static String TES = "PerbupFragment";
     public PerbupFragment() {
         // Required empty public constructor
     }
