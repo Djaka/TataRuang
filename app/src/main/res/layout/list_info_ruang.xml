@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:orientation="vertical"
+    android:layout_margin="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gending Futsal"
+        android:textSize="20sp"
+        android:id="@+id/txt_nama_bangunan"
+        android:layout_margin="3dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Jl. Gending No.10, Kotakulon, Sumedang Sel., Kabupaten Sumedang, Jawa Barat 45312"
+        android:id="@+id/txt_alamat"
+        android:layout_margin="3dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="20 Hektar"
+        android:id="@+id/txt_luas_lahan"
+        android:layout_margin="3dp"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pemilik Atas Nama Bapak Seto Aji"
+        android:id="@+id/txt_pemilik"
+        android:layout_margin="3dp"
+        android:textColor="@android:color/black"/>
+
+</LinearLayout>

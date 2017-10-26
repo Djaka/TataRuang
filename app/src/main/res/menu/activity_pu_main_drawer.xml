@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/s_dashboard"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_info_black_24dp"
+        android:title="@string/s_profile" />
+
+    <item android:title="Regulasi">
+        <menu>
+            <item
+                android:id="@+id/nav_perda_rt_rw"
+                android:icon="@drawable/ic_book_black_24dp"
+                android:title="@string/s_perda_rt_rw" />
+            <item
+                android:id="@+id/nav_perbup_rt_rw"
+                android:icon="@drawable/ic_collections_bookmark_black_24dp"
+                android:title="@string/s_perbup_rt_rw" />
+        </menu>
+    </item>
+
+    <item android:title="Sistem Informasi">
+        <menu>
+            <!--<item-->
+                <!--android:id="@+id/nav_perjalanan_dinas"-->
+                <!--android:icon="@drawable/ic_drive_eta_black_24dp"-->
+                <!--android:title="@string/s_perjalanan_dinas" />-->
+            <item
+                android:id="@+id/nav_pola_ruang"
+                android:icon="@drawable/ic_pin_drop_black_24dp"
+                android:title="@string/s_pola_ruang" />
+            <item
+                android:id="@+id/nav_info_ruang"
+                android:icon="@drawable/ic_map_black_24dp"
+                android:title="@string/s_info_ruang" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Apilkasi Dinas PUPR</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="s_profile">Profile PU</string>
+
+    <string name="s_perda_rt_rw">Perda RTRW</string>
+
+    <string name="s_perbup_rt_rw">Perbup RTRW</string>
+
+    <string name="s_perjalanan_dinas">Perjalanan Dinas</string>
+
+    <string name="s_info_ruang">Informasi Ruang</string>
+
+    <string name="s_pola_ruang">Pola Ruang</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="s_tentang_aplikasi">Tentang Aplikasi</string>
+
+    <string name="s_dashboard">Dashboard</string>
+
+    <string name="s_desc">Dinas Pekerjaan Umum</string>
+
+    <string-array name="s_misi">
+        <item>a. Meningkatkan kkualitas SDM aparatur</item>
+        <item>b. Meningkatkan kemandirian masyarakat melalui pemberdayaan masyarakat</item>
+        <item>c. Mendukung keseimbangan pembangunan dan menjaga kelestarian lingkungan</item>
+        <item>d. Mendukung peningkatan kegatan masyarakat melalui prasarana dan sarana yang baik</item>
+    </string-array>
+
+    <string name="visi">Terwujudnya keselarasan pengambangan wilayah melalui dukungan prasarana dan sarana yang handal dalam rangka menunjang visi kabupaten Sumedang
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
